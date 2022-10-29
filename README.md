@@ -1,5 +1,5 @@
-Title: Student's Weekly Task System
-Description: A list of task that a student needed to complete in a certain period of time.
+# Title: Student's Weekly Task System
+Description: A list of task that a student needed to complete in a certain period of time.\n
 Programmers:
 1. Molina, Lanz Andrei
 2. Villanuz, Jayson
