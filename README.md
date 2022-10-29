@@ -1,4 +1,4 @@
-# Title: Student's Weekly Task System
+# Title: Students Weekly Task System
 Description: Create your own list of task that you want or need to complete in a certain period of time.                          
 Programmers:
 1. Molina, Lanz Andrei
